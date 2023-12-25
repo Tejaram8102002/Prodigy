@@ -32,7 +32,7 @@ body {
   }
   
   #navbar a:hover {
-    background-color: aqua; /* Hover effect */
+    background-color: green; /* Hover effect */
   }
   
   /* Style for scrolled state (adjust colors as needed) */
@@ -42,7 +42,7 @@ body {
   .Page1 {
        height: 100vh;
        width: 100%;
-       background-color: grey;
+       background-color: skyblue;
   }
   .Page2 {
     height: 100vh;
